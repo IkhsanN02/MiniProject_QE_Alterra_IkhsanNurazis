@@ -6,7 +6,7 @@ Feature: GET - All products
 
   @GetAllProductValidEndpoint
   Scenario: Get Product Valid Endpoint - As a user i want to get all products with valid endpoint
-    Given user set GET valid endpoint
+       Given user set GET valid endpoint
     When user send GET HTTP request with valid endpoint
     Then user received valid GET HTTP response code 200
 
