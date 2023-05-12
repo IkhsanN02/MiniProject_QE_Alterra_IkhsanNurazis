@@ -1,0 +1,14 @@
+starter/screen/RegisterScreen.class
+starter/CucumberTestSuite.class
+starter/screen/LoginScreen.class
+starter/stepdefinitions/RegisterSteps.class
+starter/stepdefinitions/ProductSteps.class
+starter/stepdefinitions/RegisterSteps1.class
+starter/stepdefinitions/RegisterSteps2.class
+starter/stepdefinitions/LoginSteps1.class
+starter/stepdefinitions/LoginSteps.class
+starter/stepdefinitions/LoginSteps2.class
+starter/stepdefinitions/LoginSteps3.class
+starter/stepdefinitions/RegisterSteps3.class
+starter/stepdefinitions/LoginSteps4.class
+starter/screen/ProductScreen.class

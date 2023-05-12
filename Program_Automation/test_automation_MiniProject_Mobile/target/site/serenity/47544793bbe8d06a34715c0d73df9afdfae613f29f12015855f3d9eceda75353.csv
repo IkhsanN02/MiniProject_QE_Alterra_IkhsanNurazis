@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user i have be able to login so that i can see home screen","As a user i cant login because i input invalid email","SUCCESS","2023-05-09T20:17:10.304+07:00[Asia/Jakarta]","0.0","10.96"
+"As a user i have be able to login so that i can see home screen","As a user i cant login because i input invalid password","SUCCESS","2023-05-09T20:17:21.299+07:00[Asia/Jakarta]","0.0","11.31"
+"As a user i have be able to login so that i can see home screen","As a user i cant login because i input invalid email and password","SUCCESS","2023-05-09T20:17:32.673+07:00[Asia/Jakarta]","0.0","11.12"
+"New user can Create account and Registered","As a new user, I have be able to create new account without username","SUCCESS","2023-05-09T20:18:48.793+07:00[Asia/Jakarta]","0.0","14.37"
+"New user can Create account and Registered","As a new user, I have be able to create new account without email","SUCCESS","2023-05-09T20:19:03.194+07:00[Asia/Jakarta]","0.0","13.29"
+"New user can Create account and Registered","As a new user, I have be able to create new account without password","SUCCESS","2023-05-09T20:19:16.526+07:00[Asia/Jakarta]","0.0","12.75"

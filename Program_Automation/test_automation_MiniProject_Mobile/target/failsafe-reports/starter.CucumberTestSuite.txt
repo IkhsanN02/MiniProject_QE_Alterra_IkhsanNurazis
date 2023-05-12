@@ -1,0 +1,61 @@
+-------------------------------------------------------------------------------
+Test set: starter.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 70, Failures: 0, Errors: 6, Skipped: 9, Time elapsed: 157.83 s <<< FAILURE! - in starter.CucumberTestSuite
+As a user i can login #2.user can input valid email  Time elapsed: 15.185 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.EditText[1] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.1', java.version: '1.8.0_372'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: /Users/masgilang/Downloads/..., appium:appPackage: com.example.frontend_mobile, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: /Users/masgilang/Downloads/..., autoGrantPermissions: true, automationName: UiAutomator2, deviceName: AltaMobile, platformName: ANDROID, platformVersion: 10}, appium:deviceApiLevel: 29, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for arm64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 10, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2082, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 591ebfa2-ff9d-43dd-8c02-48165d025fd5
+
+As a user i have be able to login so that i can see home screen #2.As a user i can login #2  Time elapsed: 0.01 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.EditText[1] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.1', java.version: '1.8.0_372'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: /Users/masgilang/Downloads/..., appium:appPackage: com.example.frontend_mobile, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: /Users/masgilang/Downloads/..., autoGrantPermissions: true, automationName: UiAutomator2, deviceName: AltaMobile, platformName: ANDROID, platformVersion: 10}, appium:deviceApiLevel: 29, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for arm64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 10, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2082, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 591ebfa2-ff9d-43dd-8c02-48165d025fd5
+
+As a user i have be able to login so that i can see home screen #2.As a user i can login #2  Time elapsed: 0.111 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.EditText[1] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.1', java.version: '1.8.0_372'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: /Users/masgilang/Downloads/..., appium:appPackage: com.example.frontend_mobile, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: /Users/masgilang/Downloads/..., autoGrantPermissions: true, automationName: UiAutomator2, deviceName: AltaMobile, platformName: ANDROID, platformVersion: 10}, appium:deviceApiLevel: 29, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for arm64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 10, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2082, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 591ebfa2-ff9d-43dd-8c02-48165d025fd5
+
+As a new user, I have be able to create new account.New user click register  Time elapsed: 15.21 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: 	
+//android.widget.Button[@content-desc="Register"] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.1', java.version: '1.8.0_372'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: /Users/masgilang/Downloads/..., appium:appPackage: com.example.frontend_mobile, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: /Users/masgilang/Downloads/..., autoGrantPermissions: true, automationName: UiAutomator2, deviceName: AltaMobile, platformName: ANDROID, platformVersion: 10}, appium:deviceApiLevel: 29, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for arm64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 10, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2082, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 8161e0fe-8b17-44e5-9602-0efa8c4ebc8b
+
+New user can Create account and Registered.As a new user, I have be able to create new account  Time elapsed: 0.012 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: 	
+//android.widget.Button[@content-desc="Register"] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.1', java.version: '1.8.0_372'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: /Users/masgilang/Downloads/..., appium:appPackage: com.example.frontend_mobile, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: /Users/masgilang/Downloads/..., autoGrantPermissions: true, automationName: UiAutomator2, deviceName: AltaMobile, platformName: ANDROID, platformVersion: 10}, appium:deviceApiLevel: 29, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for arm64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 10, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2082, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 8161e0fe-8b17-44e5-9602-0efa8c4ebc8b
+
+New user can Create account and Registered.As a new user, I have be able to create new account  Time elapsed: 0.029 s  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: 	
+//android.widget.Button[@content-desc="Register"] (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.1', java.version: '1.8.0_372'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appium:app: /Users/masgilang/Downloads/..., appium:appPackage: com.example.frontend_mobile, appium:autoGrantPermissions: true, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {app: /Users/masgilang/Downloads/..., autoGrantPermissions: true, automationName: UiAutomator2, deviceName: AltaMobile, platformName: ANDROID, platformVersion: 10}, appium:deviceApiLevel: 29, appium:deviceManufacturer: Google, appium:deviceModel: Android SDK built for arm64, appium:deviceName: emulator-5554, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2280, appium:deviceUDID: emulator-5554, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 10, appium:statBarHeight: 66, appium:takesScreenshot: true, appium:viewportRect: {height: 2082, left: 0, top: 66, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 8161e0fe-8b17-44e5-9602-0efa8c4ebc8b
+
